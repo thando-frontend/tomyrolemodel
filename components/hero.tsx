@@ -24,10 +24,10 @@ export function Hero() {
           <span className="italic text-primary">{'Mama'}</span>
         </h1>
         <p className="mt-8 font-serif text-2xl md:text-3xl text-muted-foreground max-w-2xl leading-relaxed text-pretty">
-          {'Rachel Makwela — mother, wife, teacher of hearts, and the most remarkable woman we have ever known.'}
+          {'Rachel Makwela — mother, wife, teacher of hearts and the most remarkable woman I have ever known.'}
         </p>
         <p className="mt-10 font-sans text-sm tracking-[0.25em] uppercase text-muted-foreground">
-          {'With all our love, from Thandolwethu, Enhle & Dad'}
+          {'With all my love, from Thandolwethu Langa Makwela'}
         </p>
       </div>
 
