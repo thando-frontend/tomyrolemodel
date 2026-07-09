@@ -2,20 +2,20 @@ const memories = [
   {
     src: '/images/mother-child-young.png',
     alt: 'Mama holding me close when I was little',
-    caption: 'Where it all began — me and you, Mama',
-    note: 'When I was small enough to fit in your arms, but your love was already bigger than the world.',
+    caption: 'Where it all began; me and you, Mama',
+    note: 'When I was small enough to fit in your arms but your love was already bigger than the world.',
   },
   {
     src: '/images/mother-teen.png',
     alt: 'Mama and me walking arm in arm, laughing together',
-    caption: 'Seventeen years of walking beside you',
-    note: 'Somewhere along the way you became not just my mother, but my best friend.',
+    caption: 'Twenty three years of walking beside one another',
+    note: 'You and Papa are the examples in my mind of what genuine love will always look like.',
   },
   {
     src: '/images/mother-little-girl.png',
     alt: 'Mama lifting Enhle into the air, both laughing',
-    caption: 'You and Enhle — pure joy',
-    note: 'Watching you love her the way you loved me is one of my favourite things in the world.',
+    caption: 'You and the PooPoo',
+    note: 'Watching you love her the way you loved me, Im so grateful that she is able to experience your love.',
   },
 ]
 
