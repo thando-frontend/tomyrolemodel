@@ -1,8 +1,8 @@
 const family = [
-  { name: 'Rachel Makwela', role: 'Our Queen', age: '41', note: 'The heart of everything' },
-  { name: 'Lanag Makwela', role: 'Dad', age: '43', note: 'Her partner in all things' },
-  { name: 'Thandolwethu Langa Makwela', role: 'Me', age: '17', note: 'Forever her student' },
-  { name: 'Enhle Makwela', role: 'Little sister', age: '7', note: 'Her sunshine' },
+  { name: 'Rachel Makwela', role: 'Our Queen', age: '41', note: 'The heart of everything, she brings all the joy into our happy family' },
+  { name: 'Langa Makwela', role: 'Her King', age: '43', note: 'Her partner in all things, 23 years of love' },
+  { name: 'Thandolwethu Langa Makwela', role: 'Your Prince', age: '17', note: 'Forever her student and blessed to be her son' },
+  { name: 'Minenhle Makwela', role: 'The Princess', age: '7', note: 'The newest addition but definetly our sunshine' },
 ]
 
 export function Family() {
