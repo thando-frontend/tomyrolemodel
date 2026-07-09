@@ -7,17 +7,17 @@ const qualities = [
   {
     number: '02',
     title: 'Her Kindness',
-    text: 'She gives without keeping count. Her gentleness is not weakness — it is the strongest thing about her.',
+    text: 'She gives without keeping count. Her gentleness is not weakness rather it is the strongest thing about her.',
   },
   {
     number: '03',
     title: 'Her Humour',
-    text: 'She can turn the heaviest day light with a single joke. Our home is full of laughter because she built it that way.',
+    text: 'She can turn the heaviest day light with a single joke. Our home is full of laughter because she has built it that way.',
   },
   {
     number: '04',
     title: 'Her Faith',
-    text: 'Her connection to God anchors our whole family. She prays for us before we even know we need it.',
+    text: 'Her connection to God anchors our whole family. My mother prays for us before we even know we need it.',
   },
 ]
 
