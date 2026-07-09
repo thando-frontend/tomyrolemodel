@@ -34,11 +34,11 @@ export function Closing() {
           <span className="italic text-primary">{'Mama'}</span>
         </h2>
         <p className="font-serif text-xl md:text-2xl text-muted-foreground mt-6 max-w-xl leading-relaxed text-pretty">
-          {'May this year bring you even a fraction of the joy you have given us. We arise and call you blessed.'}
+          {'May this year bring you even a fraction of the joy you have always given us. We arise and call you blessed.'}
         </p>
 
         <p className="font-sans text-xs tracking-[0.3em] uppercase text-muted-foreground mt-16">
-          {'Made with all my love — Thandolwethu'}
+          {'Made with all my love — Olwethu'}
         </p>
       </div>
     </section>
